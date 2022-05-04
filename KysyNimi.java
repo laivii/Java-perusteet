@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class KysyNimi {
-    public static void(String[] args){
+    public static void main (String [] args){
         String sukunimi = "";
         String etunimi = "";
         Int ika = 0;
